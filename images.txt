@@ -1,4 +1,4 @@
-vaultwarden/server
+--alias=vaultwarden vaultwarden/server
 
 #nginx
 #支持私库
